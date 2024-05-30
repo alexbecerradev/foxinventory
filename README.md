@@ -35,7 +35,3 @@ Instrucciones para contribuir al proyecto, incluyendo información sobre cómo r
 
 Información sobre la licencia del proyecto, incluyendo el texto completo de la licencia y cualquier restricción de uso.
 
-## Autor
-
-Nombre del autor del proyecto y contacto (si se desea).
-
